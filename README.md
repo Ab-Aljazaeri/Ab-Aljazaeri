@@ -47,7 +47,7 @@ Deployed Gemma3 locally with GPU acceleration. Engineered modular wrappers for s
 ## 📫 Let's Connect
 
 - 📧 Email: Aalja004@odu.edu  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-aljazaeri)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-aljazaeri-60a109236/)  
 - 🧠 [GitHub](https://github.com/Ab-Aljazaeri)
 
 ---
